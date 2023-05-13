@@ -24,33 +24,36 @@ body {
     color: #d9dcd6;
 }
 
+/* Layout for the navigation bar*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-    color: white;
+    color: #ffffff;
 }
 
+/* Styling of the navigation bar*/
 ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 50px;
 }
 
-
+/* Font of navigation bar*/
 a {
     color: #ffffff;
     text-decoration: none;
-    
-    
 }
 
+/* Text font for the small text throughout*/
 p {
     font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+/* Biggest photo on the website*/
 .hero {
     height: 800px;
     width: 100%;
@@ -74,8 +77,10 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+
 }
 
+/* positioning and design of the side column*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -87,9 +92,18 @@ p {
     background-color: #2589bd;
 }
 
+/* font of the side column for each section*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+    text-align: center;
+}
+
+/* Spacing of the side images*/
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 .benefit-brand {
@@ -112,19 +126,9 @@ h3 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    max-height: 200px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 .search-engine-optimization {
     margin-bottom: 20px;
