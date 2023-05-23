@@ -13,7 +13,8 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Screenshot
 
-
-
+image.png
 
 ## Links
+Check out my page:
+https://jhumphr7.github.io/Challenge_1_Website/

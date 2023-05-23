@@ -107,7 +107,7 @@ p {
 }
 
 
-
+/* Word font and alignment */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -125,7 +125,7 @@ h3 {
     max-height: 200px;
 }
 
-
+/* Layout of article */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing
  {
     margin-bottom: 20px;
@@ -136,7 +136,7 @@ h3 {
     color: #ffffff;
 }
 
-
+/* Article spacing */
 .search-engine-optimization img {
     max-height: 200px;
     
@@ -151,7 +151,7 @@ h3 {
 }
 
 
-
+/* Footer font ans spacing */
 .footer {
     padding: 30px;
     clear: both;
