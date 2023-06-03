@@ -13,7 +13,8 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Screenshot
 
-image.png
+![Screenshot](/assets/images/Webpage%20Screenshot.jpg)
+
 
 ## Links
 Check out my page:
